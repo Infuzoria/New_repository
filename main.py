@@ -1,4 +1,5 @@
 def symmator (lis):
+#Пусть здесь будет комментарий
     a = 1
     for i in range (0, len(lis)):
         a *= lis[i]
